@@ -1,6 +1,6 @@
 {
   "name": "janus-tui",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "Janus is a simple TUI used to show progress and change for small scripts",
   "main": "index.js",
   "type": "module",
